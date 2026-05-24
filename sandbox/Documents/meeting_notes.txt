@@ -1,0 +1,5 @@
+
+Meeting Minutes - May 24, 2026
+Attendees: Alice, Bob, Charlie
+Agenda: Discuss the Q2 architectural roadmap and the integration of our Google Antigravity SDK components.
+We agreed to use SQLite for lightweight local storage and rich for our console layouts.

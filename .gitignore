@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local credentials & system files
+.env
+.DS_Store
+
+# Sentinel data files
+*.db
+*.sqlite
+*.pid
+*.log
+sentinel_db.sqlite
+sentinel_agent.pid
+sentinel_agent.log
+
+# IDE files
+.vscode/
+.idea/

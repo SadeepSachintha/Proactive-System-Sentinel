@@ -1,0 +1,10 @@
+
+INVOICE - GLOBAL TECH SERVICES
+Invoice Number: #48291
+Date: 2026-05-24
+Bill To: Sadeep (Proactive Sentinel Project)
+Items:
+1. Python SDK Orchestration Consulting - $1,200.00
+2. CLI Layout Design Workshop - $450.00
+Total Due: $1,650.00
+Payment due in 15 days.
